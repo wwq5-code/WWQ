@@ -21,7 +21,7 @@ repository               : "https://github.com/wwq5-code/WWQ.git"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "weiqi_photo.jpg"
   name             : "Weiqi Wang"
   pronouns         : # example: "she/her"  
   bio              : "University of Technology Sydney"
