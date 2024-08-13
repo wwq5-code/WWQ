@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-
+Home Page
 ======
 I'm a third year PhD student from University of Technology Sydney (UTS).
 A data-driven personal website
