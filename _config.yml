@@ -21,7 +21,7 @@ repository               : "https://github.com/wwq5-code/WWQ.git"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "weiqi_photo.jpg"
+  avatar           : "weiqi_photo.png"
   name             : "Weiqi Wang"
   pronouns         : # example: "she/her"  
   bio              : "University of Technology Sydney"
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=r0O_bbAAAAAJ&hl=en&oi=ao"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
