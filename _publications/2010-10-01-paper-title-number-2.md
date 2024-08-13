@@ -3,7 +3,7 @@ title: "Paper Title Number 2"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'Machine unlearning enables data owners to remove the contribution of their specified samples from trained models to protect users' privacy. However, existing methods cannot achieve an optimal balance between erasure effectiveness and model accuracy preservation. We solved this problem. '
 date: 2010-10-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
