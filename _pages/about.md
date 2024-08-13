@@ -1,14 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Home Page
-======
+
 I'm a third year PhD student from University of Technology Sydney (UTS).
 A data-driven personal website
 
