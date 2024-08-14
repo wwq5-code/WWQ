@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Weiqi Wang's Personal Homepage"
+title                    : "Weiqi Wang's Homepage"
 title_separator          : "-"
 name                     : &name "Weiqi Wang"
 description              : &description "personal description"
