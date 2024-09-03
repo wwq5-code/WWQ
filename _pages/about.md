@@ -11,7 +11,15 @@ redirect_from:
 I'm a third year PhD student from University of Technology Sydney (UTS), supervised by [Prof. Shui Yu](https://profiles.uts.edu.au/Shui.Yu).
  
  
-My research interest is **privacy and security in machine learning**.
+My research interest is **privacy and security in machine learning**. During my PhD period, I mainly focused on machine unlearning.
+1. Machine Unlearning:
+   - New Algorithms for Machine Unlearning and Federated Unlearning
+   - Prevent Privacy Leakage during Machine Unlearning
+   - Auditing and Verification of Machine Unlearning
 
 
 
+---
+permalink: /
+title: "Selected First-author Papers"
+---
