@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Hi, I am Weiqi Wang (王卫其)"
 author_profile: true
 redirect_from: 
   - /about/
