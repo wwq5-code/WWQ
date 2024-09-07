@@ -41,4 +41,5 @@ My research interest is **privacy and security in machine learning**. During my 
   - IEEE Transactions on Information Forensics and Security (TIFS)
   - IEEE Transactions on Dependable and Secure Computing (TDSC)
   - ACM Computing Surveys
+  - IEEE Communications Surveys and Tutorials
   - IEEE Internet of Things Journal (IoTJ)
