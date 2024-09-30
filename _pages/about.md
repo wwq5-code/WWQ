@@ -21,6 +21,8 @@ My research interest is **privacy and security in machine learning**. During my 
 ---
 # News
 
+- [September 2024] I was invited as a reviewer of [ICLR 2025](https://iclr.cc/Conferences/2025/CallForPapers)!
+
 - [August 2024] I will join the TPC of [WWW 2025](https://www2025.thewebconf.org/research-tracks)!
 
 
@@ -35,7 +37,7 @@ My research interest is **privacy and security in machine learning**. During my 
 # Services
 
 - **Program Committee Member/Reviewer**
-  - **2025**: The Web Conference(WWW);
+  - **2025**: The Web Conference(WWW);ICLR;
   - **2024**: The Web Conference(WWW);
 - **Journal Reviewer**
   - IEEE Transactions on Information Forensics and Security (TIFS)
