@@ -30,8 +30,9 @@ My research interest is **privacy and security in machine learning**. During my 
 ---
 # Selected Publications
 
-1. **Weiqi Wang**, Chenhan Zhang, Zhiyi Tian, Shui Yu. "Machine unlearning via representation forgetting with parameter self-sharing." *IEEE Transactions on Information Forensics and Security* (2023).
+1. **Weiqi Wang**, Chenhan Zhang, Zhiyi Tian, Shui Yu. "Machine unlearning via representation forgetting with parameter self-sharing." *IEEE Transactions on Information Forensics and Security* (vol. 19, pp. 1099–1111, 2024).
 
+2. **Weiqi Wang**, Zhiyi Tian, Chenhan Zhang, An Liu, and Shui Yu. "Bfu: Bayesian federated unlearning with parameter self-sharing." In Proceedings of the 2023 ACM Asia Conference on Computer and Communications Security, pp. 567-578. 2023.
 
 ---
 # Services
