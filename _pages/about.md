@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I'm a third year PhD student from University of Technology Sydney (UTS), supervised by [Prof. Shui Yu](https://profiles.uts.edu.au/Shui.Yu).
+I have submitted my thesis on Nov 2024. Now, I'm a postdoc from University of Technology Sydney (UTS), still supervised by [Prof. Shui Yu](https://profiles.uts.edu.au/Shui.Yu).
  
  
 My research interest is **privacy and security in machine learning**. During my PhD period, I mainly focused on machine unlearning.
@@ -20,6 +20,11 @@ My research interest is **privacy and security in machine learning**. During my 
 
 ---
 # News
+
+- [Jan 2025] One paper about machine unlearning auditing was accepted by WWW25: [TAPE: Tailored Posterior Difference for Auditing of Machine Unlearning](https://openreview.net/forum?id=LedrHK34jZ#discussion)
+
+
+- [December 2024] One federated unlearning paper was accepted by TDSC: [https://ieeexplore.ieee.org/abstract/document/10810730](https://ieeexplore.ieee.org/abstract/document/10810730)
 
 - [December 2024] One semantic communication unlearning paper was accepted by TIFS: [https://ieeexplore.ieee.org/abstract/document/10795191](https://ieeexplore.ieee.org/abstract/document/10795191)
 
