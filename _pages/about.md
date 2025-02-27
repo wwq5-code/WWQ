@@ -21,8 +21,9 @@ My research interest is **privacy and security in machine learning**. During my 
 ---
 # News
 
-- [Jan 2025] One paper about machine unlearning auditing was accepted by WWW25: [TAPE: Tailored Posterior Difference for Auditing of Machine Unlearning](https://openreview.net/forum?id=LedrHK34jZ#discussion)
+- [Feb 2025] One paper about privacy protection on machine unlearning was accepted by TDSC: [https://ieeexplore.ieee.org/abstract/document/10887075](https://ieeexplore.ieee.org/abstract/document/10887075)
 
+- [Jan 2025] One paper about machine unlearning auditing was accepted by WWW25: [TAPE: Tailored Posterior Difference for Auditing of Machine Unlearning](https://openreview.net/forum?id=LedrHK34jZ#discussion)
 
 - [December 2024] One federated unlearning paper was accepted by TDSC: [https://ieeexplore.ieee.org/abstract/document/10810730](https://ieeexplore.ieee.org/abstract/document/10810730)
 
