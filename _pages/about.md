@@ -21,13 +21,13 @@ My research interest is **privacy and security in machine learning**. During my 
 ---
 # News
 
-- [Feb 2025] One paper about privacy protection on machine unlearning was accepted by TDSC: [https://ieeexplore.ieee.org/abstract/document/10887075](https://ieeexplore.ieee.org/abstract/document/10887075)
+- [Feb 2025] One paper about privacy protection on machine unlearning was accepted by TDSC: [CRFU: Compressive Representation Forgetting Against Privacy Leakage on Machine Unlearning](https://ieeexplore.ieee.org/abstract/document/10887075)
 
 - [Jan 2025] One paper about machine unlearning auditing was accepted by WWW25: [TAPE: Tailored Posterior Difference for Auditing of Machine Unlearning](https://openreview.net/forum?id=LedrHK34jZ#discussion)
 
-- [December 2024] One federated unlearning paper was accepted by TDSC: [https://ieeexplore.ieee.org/abstract/document/10810730](https://ieeexplore.ieee.org/abstract/document/10810730)
+- [December 2024] One federated unlearning paper was accepted by TDSC: [FedU: Federated Unlearning via User-Side Influence Approximation Forgetting](https://ieeexplore.ieee.org/abstract/document/10810730)
 
-- [December 2024] One semantic communication unlearning paper was accepted by TIFS: [https://ieeexplore.ieee.org/abstract/document/10795191](https://ieeexplore.ieee.org/abstract/document/10795191)
+- [December 2024] One semantic communication unlearning paper was accepted by TIFS: [SCU: An Efficient Machine Unlearning Scheme for Deep Learning Enabled Semantic Communications](https://ieeexplore.ieee.org/abstract/document/10795191)
 
 - [September 2024] I was invited as a reviewer of [ICLR 2025](https://iclr.cc/Conferences/2025/CallForPapers)!
 
