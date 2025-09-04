@@ -20,6 +20,8 @@ My research interest is **privacy and security in machine learning**. During my 
 
 ---
 # News
+- [Sep 2025] I was invited as a reviewer of [ICLR 2026](https://iclr.cc/Conferences/2026/CallForPapers)
+
 - [May 2025] One paper about machine unlearning evaluation was accepted by TIFS:[Evaluation of Machine Unlearning Through Model Difference](https://ieeexplore.ieee.org/abstract/document/11007001)
 
 - [Feb 2025] One paper about privacy protection on machine unlearning was accepted by TDSC: [CRFU: Compressive Representation Forgetting Against Privacy Leakage on Machine Unlearning](https://ieeexplore.ieee.org/abstract/document/10887075)
