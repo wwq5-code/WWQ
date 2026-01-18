@@ -70,8 +70,8 @@ My research interest is **privacy and security in machine learning**. During my 
 # Services
 
 - **Program Committee Member/Reviewer**
-  - **2026**: The Web Conference(WWW);ICLR;
-  - **2025**: The Web Conference(WWW);ICLR;
+  - **2026**: CVPR; The Web Conference(WWW); ICLR;
+  - **2025**: The Web Conference(WWW); ICLR;
   - **2024**: The Web Conference(WWW);
 - **Journal Reviewer**
   - IEEE Transactions on Information Forensics and Security (TIFS)
