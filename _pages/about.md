@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I have submitted my thesis on Nov 2024. Now, I'm a postdoc from University of Technology Sydney (UTS), still supervised by [Prof. Shui Yu](https://profiles.uts.edu.au/Shui.Yu).
+I'm a postdoc research associate from University of Technology Sydney (UTS), still supervised by [Prof. Shui Yu](https://profiles.uts.edu.au/Shui.Yu).
  
  
 My research interest is **privacy and security in machine learning**. During my PhD period, I mainly focused on machine unlearning.
