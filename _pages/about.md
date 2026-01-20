@@ -20,7 +20,7 @@ My research interest is **privacy and security in machine learning**. During my 
 
 ---
 # News
-- [Jan 2026] One paper about privacy-preserving machine unlearning was accepted by TPAMI:[BlindU: Blind Machine Unlearning without Revealing Erasing Data](https://www.computer.org/csdl/journal/tp/5555/01/11353053/2diorKlIBLq)
+- [Jan 2026] One paper about privacy-preserving machine unlearning was accepted by TPAMI: [BlindU: Blind Machine Unlearning without Revealing Erasing Data](https://www.computer.org/csdl/journal/tp/5555/01/11353053/2diorKlIBLq)
 
 - [Oct 2025] I was invited as a reviewer of [WWW 2026](https://www2026.thewebconf.org/)
 
