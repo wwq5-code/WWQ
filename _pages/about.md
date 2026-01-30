@@ -78,6 +78,7 @@ My research interest is **privacy and security in machine learning**. During my 
 - **Journal Reviewer**
   - IEEE Transactions on Information Forensics and Security (TIFS)
   - IEEE Transactions on Dependable and Secure Computing (TDSC)
+  - IEEE Transactions on Mobile Computing (TMC)
   - IEEE Transactions on Image Processing (TIP)
   - ACM Computing Surveys
   - IEEE Communications Surveys and Tutorials
