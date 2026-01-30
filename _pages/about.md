@@ -20,15 +20,17 @@ My research interest is **privacy and security in machine learning**. During my 
 
 ---
 # News
+- [Jan 2026] I was invited as a reviewer of [ICML 2026](https://icml.cc/)
+
 - [Jan 2026] One paper about privacy-preserving machine unlearning was accepted by TPAMI: [BlindU: Blind Machine Unlearning without Revealing Erasing Data](https://www.computer.org/csdl/journal/tp/5555/01/11353053/2diorKlIBLq)
 
 - [Oct 2025] I was invited as a reviewer of [WWW 2026](https://www2026.thewebconf.org/)
 
 - [Sep 2025] I was invited as a reviewer of [ICLR 2026](https://iclr.cc/Conferences/2026/CallForPapers)
 
-- [Sep 2025] One paper about machine unlearning verification was accepted by TDSC:[SMS: Self-supervised Model Seeding for Verification of Machine Unlearning](https://ieeexplore.ieee.org/abstract/document/11184497)
+- [Sep 2025] One paper about machine unlearning verification was accepted by TDSC: [SMS: Self-supervised Model Seeding for Verification of Machine Unlearning](https://ieeexplore.ieee.org/abstract/document/11184497)
 
-- [May 2025] One paper about machine unlearning evaluation was accepted by TIFS:[Evaluation of Machine Unlearning Through Model Difference](https://ieeexplore.ieee.org/abstract/document/11007001)
+- [May 2025] One paper about machine unlearning evaluation was accepted by TIFS: [Evaluation of Machine Unlearning Through Model Difference](https://ieeexplore.ieee.org/abstract/document/11007001)
 
 - [Feb 2025] One paper about privacy protection on machine unlearning was accepted by TDSC: [CRFU: Compressive Representation Forgetting Against Privacy Leakage on Machine Unlearning](https://ieeexplore.ieee.org/abstract/document/10887075)
 
@@ -70,7 +72,7 @@ My research interest is **privacy and security in machine learning**. During my 
 # Services
 
 - **Program Committee Member/Reviewer**
-  - **2026**: CVPR; The Web Conference(WWW); ICLR;
+  - **2026**: ICML; CVPR; The Web Conference(WWW); ICLR;
   - **2025**: The Web Conference(WWW); ICLR;
   - **2024**: The Web Conference(WWW);
 - **Journal Reviewer**
