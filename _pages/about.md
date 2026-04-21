@@ -20,6 +20,8 @@ My research interest is **privacy and security in machine learning**. During my 
 
 ---
 # News
+- [March 2026] I was invited as a reviewer of [NIPS 2026](https://neurips.cc/)
+
 - [Jan 2026] I was invited as a reviewer of [ICML 2026](https://icml.cc/)
 
 - [Jan 2026] One paper about privacy-preserving machine unlearning was accepted by TPAMI: [BlindU: Blind Machine Unlearning without Revealing Erasing Data](https://www.computer.org/csdl/journal/tp/5555/01/11353053/2diorKlIBLq)
