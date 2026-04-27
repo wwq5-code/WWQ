@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am currently a Distinguished Research Fellow at the School of Cyber Science and Engineering, Xi'an Jiaotong University (XJTU). 
+I am currently a Distinguished Research Fellow at the School of Cyber Science and Engineering, Xi'an Jiaotong University. 
 I received my Ph.D. degree from the University of Technology Sydney, Australia. 
 My research focuses on **AI Security and Privacy**, specifically, model and system security, and data privacy. 
 During my Ph.D, I mainly focused on machine unlearning.
