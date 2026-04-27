@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 
-I'm a postdoc research associate from University of Technology Sydney (UTS), still supervised by [Prof. Shui Yu](https://profiles.uts.edu.au/Shui.Yu).
- 
- 
-My research interest is **privacy and security in machine learning**. During my PhD period, I mainly focused on machine unlearning.
+Wang, Weiqi (王卫其) currently is a distinguished Research Fellow at the School of Cyber Science and Engineering, Xi'an Jiaotong University (XJTU). 
+He received his Ph.D. degree from University of Technology Sydney, Australia. 
+His research interest is **AI Security and Privacy**, specifically, model and system security, and data privacy. 
+During his PhD period, he mainly focused on machine unlearning.
 1. Machine Unlearning:
    - New Algorithms for Machine Unlearning and Federated Unlearning
    - Prevent Privacy Leakage during Machine Unlearning
