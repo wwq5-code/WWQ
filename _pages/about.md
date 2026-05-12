@@ -74,9 +74,9 @@ During my Ph.D, I mainly focused on machine unlearning.
 # Services
 
 - **Program Committee Member/Reviewer**
-  - **2026**: ICML; CVPR; The Web Conference(WWW); ICLR;
-  - **2025**: The Web Conference(WWW); ICLR;
-  - **2024**: The Web Conference(WWW);
+  - **2026**: ICML; CVPR; ACM WWW; KDD; ICLR; NIPS;
+  - **2025**: The Web Conference(ACM WWW); ICLR;
+  - **2024**: The Web Conference(ACM WWW);
 - **Journal Reviewer**
   - IEEE Transactions on Information Forensics and Security (TIFS)
   - IEEE Transactions on Dependable and Secure Computing (TDSC)
