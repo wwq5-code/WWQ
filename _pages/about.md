@@ -20,6 +20,10 @@ During my Ph.D, I mainly focused on machine unlearning.
 
 ---
 # News
+- [May 2026] One paper about approximate unlearning with manifold representation was accepted by KDD 2026: [Approximate Machine Unlearning through Manifold Representation Forgetting Guided by Self Mode Connectivity](https://arxiv.org/pdf/2605.22871)
+
+- [May 2026] One paper about LLM Jailbreak defense was accepted by ICML 2026: [Steering Beyond the Support: Adversarial Training on Unsupervised Jailbroken Activation Simulation](https://arxiv.org/pdf/2605.24535)
+
 - [March 2026] I was invited as a reviewer of [NIPS 2026](https://neurips.cc/)
 
 - [Jan 2026] I was invited as a reviewer of [ICML 2026](https://icml.cc/)
