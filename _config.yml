@@ -24,11 +24,11 @@ author:
   avatar           : "weiqi_photo.png"
   name             : "Weiqi Wang"
   pronouns         : # example: "she/her"  
-  bio              : "School of Computer Science, University of Technology Sydney. // Email: Weiqi.Wang@uts.edu.au"
-  location         : "Sydney"
+  bio              : "School of Cyber Science and Engineering, Xi’an Jiaotong University. // Email: Weiqi.Wang@xjtu.edu.cn"
+  location         : "Xi'an"
   #employer         : "Red Brick University"
   uri              : # URL
-  email            : "Weiqi.Wang@uts.edu.au" 
+  email            : "Weiqi.Wang@xjtu.edu.cn"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
