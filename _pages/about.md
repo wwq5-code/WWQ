@@ -20,6 +20,10 @@ During my Ph.D, I mainly focused on machine unlearning.
 
 ---
 # News
+- [Jul 2026] One paper about Semantic Communication Verification was accepted by TMC: [VerfSemCom: Deep Learning-Driven Verification for Trustworthy Image Semantic Communication](https://ieeexplore.ieee.org/abstract/document/11592664)
+
+- [Jul 2026] One paper about LLM Jailbreak Defense was accepted by TIFS: [Ellipsoid Control: A White-list Jailbreak Defense via Benign Latent Modeling](https://ieeexplore.ieee.org/abstract/document/11579269)
+
 - [May 2026] One paper about approximate unlearning with manifold representation was accepted by KDD 2026: [Approximate Machine Unlearning through Manifold Representation Forgetting Guided by Self Mode Connectivity](https://arxiv.org/pdf/2605.22871)
 
 - [May 2026] One paper about LLM Jailbreak defense was accepted by ICML 2026: [Steering Beyond the Support: Adversarial Training on Unsupervised Jailbroken Activation Simulation](https://arxiv.org/pdf/2605.24535)
