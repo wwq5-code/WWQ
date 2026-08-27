@@ -20,6 +20,8 @@ During my Ph.D, I mainly focused on machine unlearning.
 
 ---
 # News
+- [Aug 2026] One paper about Differential Privacy Aware Insurance Pricing was accepted by TDSC: [Differential Privacy Aware Insurance Pricing for Personal Data Trading Market](https://ieeexplore.ieee.org/abstract/document/11646873)
+
 - [Jul 2026] One paper about Semantic Communication Verification was accepted by TMC: [VerfSemCom: Deep Learning-Driven Verification for Trustworthy Image Semantic Communication](https://ieeexplore.ieee.org/abstract/document/11592664)
 
 - [Jul 2026] One paper about LLM Jailbreak Defense was accepted by TIFS: [Ellipsoid Control: A White-list Jailbreak Defense via Benign Latent Modeling](https://ieeexplore.ieee.org/abstract/document/11579269)
