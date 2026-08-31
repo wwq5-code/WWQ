@@ -27,5 +27,7 @@ author_profile: true
 
 1. **Weiqi Wang**, Zhiyi Tian, An Liu, and Shui Yu. "TAPE: Tailored Posterior Difference for Auditing of Machine Unlearning." In Proceedings of the ACM on Web Conference 2025, pp. 3061-3072. 2025.
 
-2. **Weiqi Wang**, Zhiyi Tian, Chenhan Zhang, An Liu, and Shui Yu. "Bfu: Bayesian federated unlearning with parameter self-sharing." In Proceedings of the 2023 ACM Asia Conference on Computer and Communications Security, pp. 567-578. 2023.
+2. **Weiqi Wang**, Zhiyi Tian, Chenhan Zhang, Luoyu Chen, and Shui Yu. "Approximate Machine Unlearning through Manifold Representation Forgetting Guided by Self Mode Connectivity." In Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 2, pp. 5057-5068. 2026.
+
+3. **Weiqi Wang**, Zhiyi Tian, Chenhan Zhang, An Liu, and Shui Yu. "Bfu: Bayesian federated unlearning with parameter self-sharing." In Proceedings of the 2023 ACM Asia Conference on Computer and Communications Security, pp. 567-578. 2023.
 
