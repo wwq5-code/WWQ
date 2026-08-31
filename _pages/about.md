@@ -20,6 +20,8 @@ During my Ph.D, I mainly focused on machine unlearning.
 
 ---
 # News
+- [Aug 2026] I was invited as a reviewer of [ICLR 2027](https://iclr.cc/Conferences/2027)
+
 - [Aug 2026] I was invited as a reviewer of [AAAI 2027](https://aaai.org/conference/aaai/aaai-27/)
 
 - [Aug 2026] One paper about Differential Privacy Aware Insurance Pricing was accepted by TDSC: [Differential Privacy Aware Insurance Pricing for Personal Data Trading Market](https://ieeexplore.ieee.org/abstract/document/11646873)
@@ -86,7 +88,7 @@ During my Ph.D, I mainly focused on machine unlearning.
 # Services
 
 - **Program Committee Member/Reviewer**
-  - **2026**: ICML; CVPR; ACM WWW; ACM KDD; ICLR; NIPS;
+  - **2026**: ICML; CVPR; ACM WWW; ACM KDD; ICLR; NIPS; AAAI;
   - **2025**: The Web Conference(ACM WWW); ICLR;
   - **2024**: The Web Conference(ACM WWW);
 - **Journal Reviewer**
