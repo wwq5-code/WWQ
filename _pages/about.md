@@ -20,6 +20,8 @@ During my Ph.D, I mainly focused on machine unlearning.
 
 ---
 # News
+- [Sep 2026] I was invited as a reviewer of [WWW 2027](https://www2027.thewebconf.org/)
+
 - [Aug 2026] I was invited as a reviewer of [ICLR 2027](https://iclr.cc/Conferences/2027)
 
 - [Aug 2026] I was invited as a reviewer of [AAAI 2027](https://aaai.org/conference/aaai/aaai-27/)
