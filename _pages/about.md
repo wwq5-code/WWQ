@@ -17,10 +17,13 @@ During my Ph.D, I mainly focused on machine unlearning.
    - Prevent Privacy Leakage during Machine Unlearning
    - Auditing and Verification of Machine Unlearning
 
+I am looking for self-motivated Ph.D., master, intern, and undergraduate students who are interested in trustworthy artificial intelligence and data privacy. If you are interested, please feel free to email me your CV and a brief introduction to your research interests.
 
 ---
 # News
 - [Sep 2026] I was invited as a reviewer of [WWW 2027](https://www2027.thewebconf.org/)
+
+- [Aug 2026] One paper about LLM Jailbreak defense was accepted by EMNLP 2026: [Reactivating Alignment: Defending LLMs from Jailbreaks via Intention-Aware Input–Output Matching]
 
 - [Aug 2026] I was invited as a reviewer of [ICLR 2027](https://iclr.cc/Conferences/2027)
 
