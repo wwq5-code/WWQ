@@ -23,7 +23,7 @@ I am looking for self-motivated Ph.D., master, intern, and undergraduate student
 # News
 - [Sep 2026] I was invited as a reviewer of [WWW 2027](https://www2027.thewebconf.org/)
 
-- [Aug 2026] One paper about LLM Jailbreak defense was accepted by EMNLP 2026: [Reactivating Alignment: Defending LLMs from Jailbreaks via Intention-Aware Input–Output Matching]
+- [Aug 2026] One paper about LLM Jailbreak defense was accepted by EMNLP 2026: [Reactivating Alignment: Defending LLMs from Jailbreaks via Intention-Aware Input–Output Matching](https://arxiv.org/pdf/2610.04470)
 
 - [Aug 2026] I was invited as a reviewer of [ICLR 2027](https://iclr.cc/Conferences/2027)
 
